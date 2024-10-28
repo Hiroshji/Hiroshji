@@ -2,7 +2,7 @@
 
 Im a IT student styding from Norway.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3>A passionate frontend developer from Norway</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
