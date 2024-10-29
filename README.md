@@ -3,6 +3,8 @@ I am a IT Student from Norway.
 
 - 🌱 I’m currently learning: Python
 - 🔭 I’m currently working on: SOMETHIGN IDK YET
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hiroshji)
+
 
 <details>
   <summary>GitHub Stats</summary>
