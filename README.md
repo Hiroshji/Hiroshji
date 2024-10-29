@@ -7,8 +7,13 @@ I am an IT Student from Norway.
 
 <details>
   <summary>GitHub Stats</summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hiroshji&show_icons=true&theme=dracula&locale=en" alt="hiroshji" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiroshji&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hiroshji" />
+
+  <div style="display: inline-block;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hiroshji&show_icons=true&theme=dracula&locale=en" alt="hiroshji" />
+  </div>
+  <div style="display: inline-block;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiroshji&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hiroshji" />
+  </div>
 </details>
 
 <details>
