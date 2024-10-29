@@ -5,9 +5,11 @@ I am a IT Student from Norway.
 - 🔭 I’m currently working on: SOMETHIGN IDK YET
 
 <details>
-## GitHub Stats
+  <summary>GitHub Stats</summary>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroshji&show_icons=true&theme=dracula&locale=en" alt="hiroshji" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiroshji&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hiroshji" /></p>
+
 </details>
 
 
