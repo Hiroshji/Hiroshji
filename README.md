@@ -7,18 +7,8 @@ I am an IT Student from Norway.
 
 <details>
   <summary>GitHub Stats</summary>
-
-  <table>
-    <tr>
-      <td>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=hiroshji&show_icons=true&theme=dracula&locale=en" alt="hiroshji" />
-      </td>
-      <td>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiroshji&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hiroshji" />
-      </td>
-    </tr>
-  </table>
-  
 </details>
 
 <details>
@@ -38,7 +28,6 @@ I am an IT Student from Norway.
   ### Version Control
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 </details>
 
 <details>
