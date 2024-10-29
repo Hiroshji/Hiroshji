@@ -7,12 +7,12 @@ I am an IT Student from Norway.
 
 <details>
   <summary>GitHub Stats</summary>
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=hiroshji&show_icons=true&theme=gotham" style="max-width: 100%;">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroshji&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" style="max-width: 100%;">
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height="155" align="center" src="https://github-readme-stats.vercel.app/api?username=hiroshji&show_icons=true&theme=dracula" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroshji&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&theme=dracula" style="max-width: 100%;">
+  </a>
 </details>
   
 <details>
