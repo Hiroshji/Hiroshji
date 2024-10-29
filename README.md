@@ -2,6 +2,7 @@
 I am a IT Student from Norway.
 
 🌱 I’m currently learning: Python
+
 🔭 I’m currently working on: SOMETHIGN IDK YET
 
 ## GitHub Stats
