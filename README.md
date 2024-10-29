@@ -4,10 +4,12 @@ I am a IT Student from Norway.
 - 🌱 I’m currently learning: Python
 - 🔭 I’m currently working on: SOMETHIGN IDK YET
 
-
+<details>
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroshji&show_icons=true&theme=dracula&locale=en" alt="hiroshji" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiroshji&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hiroshji" /></p>
+</details>
+
 
 <details>
   <summary>My Skills</summary>
