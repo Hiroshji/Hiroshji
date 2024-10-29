@@ -13,7 +13,7 @@ I am a IT Student from Norway.
 </details>
 
 
-<details align="center">
+<details align="left">
   <summary>My Skills</summary>
 
 ## Languages
@@ -39,7 +39,7 @@ I am a IT Student from Norway.
 
 
 
-<details align="center">
+<details align="left">
   <summary>Other</summary>
   empty
 
