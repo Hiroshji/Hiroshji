@@ -36,5 +36,6 @@ I am a IT Student from Norway.
 
 <details>
   <summary>Other</summary>
+  *Theres nothing here yet but give it time*
 
 </details>
