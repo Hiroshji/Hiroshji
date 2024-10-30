@@ -35,6 +35,6 @@ I am an IT Student from Norway.
 
 <details>
   <summary>Other</summary>
-  empty
+  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 </details>
 
