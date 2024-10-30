@@ -1,4 +1,4 @@
-# Hey, my name is Suleiman.
+# Hey
 I am an IT Student from Norway.
 
 - 🌱 I’m currently learning: Python
