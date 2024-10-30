@@ -5,6 +5,8 @@ I am an IT Student from Norway.
 - 🔭 I’m currently working on: PyQT6-Tetris
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hiroshji?tab=repositories)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiroshji&theme=dracula&date_format=M%2Fd%5B%2FY%5D)
+
 <details>
   <summary>GitHub Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
