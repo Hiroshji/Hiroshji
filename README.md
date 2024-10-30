@@ -35,6 +35,6 @@ I am an IT Student from Norway.
 
 <details>
   <summary>Other</summary>
-  ![Visitor Count](https://github.com/Hiroshji}/count.svg)
+  ![Visitor Count]({https://github.com/Hiroshji}/count.svg)
 </details>
 
