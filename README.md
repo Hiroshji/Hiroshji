@@ -33,8 +33,11 @@ I am an IT Student from Norway.
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
+  ### Software
+  ![Aseprite](https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label=)
+  ![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=for-the-badge)
+
 <details>
   <summary>Other</summary>
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=hiroshji.profile&style=for-the-badge)
 </details>
 
