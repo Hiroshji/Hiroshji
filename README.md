@@ -14,8 +14,11 @@ I am an IT Student from Norway.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroshji&langs_count=8&layout=compact&theme=dracula" style="max-width: 100%;">
   </a>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiroshji&theme=dracula&date_format=M%2Fd%5B%2FY%5D)
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height="155" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hiroshji&theme=dracula&date_format=M%2Fd%5B%2FY%5D" style="max-width: 100%;">
+
+  </a>
 </details>
   
 <details>
