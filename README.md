@@ -2,7 +2,7 @@
 I am an IT Student from Norway.
 
 - 🌱 I’m currently learning: Python
-- 🔭 I’m currently working on: SOMETHING IDK YET
+- 🔭 I’m currently working on: PyQT6-Tetris
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hiroshji?tab=repositories)
 
 <details>
