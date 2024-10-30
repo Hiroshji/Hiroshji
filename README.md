@@ -35,6 +35,8 @@ I am an IT Student from Norway.
 
 <details>
   <summary>Other</summary>
-  ![Visitor Count]({https://github.com/Hiroshji}/count.svg)
+  ![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=hiroshji.<your-repo-name>&style=for-the-badge)
+  ![Hits](https://hits.dwyl.com/hiroshji/<your-repo-name>.svg?style=flat-square)
+  ![Visitor Count](https://ga-beacon.appspot.com/UA-XXXXX-Y/hiroshji/<your-repo-name>)
 </details>
 
