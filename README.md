@@ -47,4 +47,3 @@ I am an IT Student from Norway.
 <details>
   <summary>Other</summary>
 </details>
-
