@@ -45,5 +45,5 @@ I am an IT Student from Norway.
 </details>
 
 <details>
-  <summary>Other</summary>
+  <summary>Others</summary>
 </details>
