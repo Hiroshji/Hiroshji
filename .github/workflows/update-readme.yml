@@ -17,7 +17,7 @@ jobs:
           QUOTE=$(shuf -n 1 quotes.txt)
           
           # Insert the quote into README.md
-          sed -i "s/## Quote of the day: .*/## Quote of the day: $QUOTE/" README.md
+          sed -i "s/### Quote of the day: .*/### Quote of the day: $QUOTE/" README.md
 
           # Commit changes
           git config user.name "github-actions[bot]"
