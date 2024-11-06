@@ -5,8 +5,6 @@ I am an IT Student from Norway.
 - 🔭 I’m currently working on: PyQT6-Tetris
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hiroshji?tab=repositories)
 
-### Quote of the day: TEXT GOES HERE
-
 <details>
   <summary>GitHub Stats</summary>
 <p align="center">
