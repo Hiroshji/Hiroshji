@@ -1,7 +1,8 @@
 name: Update Profile README with Quote of the Day
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
+    - cron: '30 17 * * *'  # Runs daily at 18:30 Norwegian Standard Time (UTC+1)
+
 
 jobs:
   update-readme:
