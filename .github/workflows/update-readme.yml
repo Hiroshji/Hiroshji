@@ -1,15 +1,19 @@
 name: Update Profile README with Quote of the Day
 on:
   schedule:
-    - cron: '36 17 * * *'  # Runs daily at 18:30 Norwegian Standard Time (UTC+1)
-
+    - cron: '36 17 * * *'  # Runs daily at 18:36 Norwegian Standard Time (UTC+1)
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to v3
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Update README with new quote
         run: |
@@ -20,8 +24,6 @@ jobs:
           sed -i "s/### Quote of the day: .*/### Quote of the day: $QUOTE/" README.md
 
           # Commit changes
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Update Quote of the Day"
           git push
