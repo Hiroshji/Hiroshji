@@ -1,4 +1,4 @@
-# Hey
+# Hey there,
 I am an IT Student from Norway.
 
 - 🌱 I’m currently learning: Python
