@@ -16,7 +16,7 @@
 
 ## About me:
 
-- I am currently learning Java And Python.
+- I am currently learning Java, Python and Apex (Salesforce).
 - Enjoy exploring ideas, improving systems, and building practical solutions from scratch.
 
 
