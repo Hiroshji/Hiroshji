@@ -21,4 +21,4 @@
 
 
 ## My skills: 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,html,css,js,django,java,postgres,kubernetes,git,github,gitlab,vscode,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,html,css,js,django,java,postgres,git,github,gitlab,vscode,obsidian)](https://skillicons.dev)
