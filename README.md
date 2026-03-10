@@ -21,4 +21,8 @@
 - Been volunteering for Red Cross since Feb 6 2026 and planning todo so for the foreseeable future
 
 ## My skills: 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,django,java,postgres,git,github,vscode,obsidian)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,django,java,postgres,git,github,vscode,obsidian" />
+  </a>
+</p>
