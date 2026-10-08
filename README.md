@@ -16,7 +16,7 @@
 
 ## About me:
 
-- currently learning Java, Typescript and Apex (Salesforce).
+- currently learning Java and Apex (Salesforce).
 - Enjoy exploring ideas, improving systems, and building practical solutions from scratch.
 - Been volunteering for Red Cross since Feb 6 2026 and planning todo so for the foreseeable future
 
